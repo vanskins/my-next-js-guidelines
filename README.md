@@ -17,10 +17,10 @@
 
 # 1. Next JS Packages
 
-- [next-routes]("https://github.com/fridays/next-routes") (For routing pages)
-- [express]("https://expressjs.com/") (For serving the pages server side)
-- [next-i18next]("https://github.com/isaachinman/next-i18next") (Handles translation support)
-- [react-hook-form]("https://react-hook-form.com/") (Form validations)
+- [next-routes](https://github.com/fridays/next-routes) (For routing pages)
+- [express](https://expressjs.com/) (For serving the pages server side)
+- [next-i18next](https://github.com/isaachinman/next-i18next) (Handles translation support)
+- [react-hook-form](https://react-hook-form.com/) (Form validations)
 
 # 2. Project folder structure
 ### 2.1 Components
@@ -173,5 +173,5 @@ Components and functions inside libraries should have one purpose and responsibi
 - Make sure that the next person that will read your code can understand it without you asking.
 
 # 6. Reference
-- [https://medium.com/yals/dry-out-react-code-into-presentational-components-8308f42a8b80]("https://medium.com/yals/dry-out-react-code-into-presentational-components-8308f42a8b80")
-- [https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108]("https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108")
+- [https://medium.com/yals/dry-out-react-code-into-presentational-components-8308f42a8b80](https://medium.com/yals/dry-out-react-code-into-presentational-components-8308f42a8b80)
+- [https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108)
