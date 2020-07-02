@@ -12,8 +12,8 @@
     - [So why should I use functional components at all?](#so-why-should-i-use-functional-components-at-all)
 - [5. Routes](#5-routes)
 - [6. Don't repeat yourself (DRY)](#6-dont-repeat-yourself-dry)
-- [5. General rules](#5-general-rules)
-- [6. Reference](#6-reference)
+- [7. General rules](#7-general-rules)
+- [8. Reference](#8-reference)
 
 # 1. Next JS Packages
 
@@ -162,7 +162,7 @@ If you can see the code about it has a variable for routePrefix it is set from .
 
 Components and functions inside libraries should have one purpose and responsibility, to lessen bugs and so that we can easily debug the code without affecting other parts of the app. 
 
-# 5. General rules
+# 7. General rules
 - Proper indentions of (2 spaces)
 - Proper singular/plural naming
 - Remove unused codes like variables, deprecated functions etc.
@@ -172,6 +172,6 @@ Components and functions inside libraries should have one purpose and responsibi
 - DO NOT put logical codes inside pages. Create libraries and actions for specific task in your code.
 - Make sure that the next person that will read your code can understand it without you asking.
 
-# 6. Reference
+# 8. Reference
 - [https://medium.com/yals/dry-out-react-code-into-presentational-components-8308f42a8b80](https://medium.com/yals/dry-out-react-code-into-presentational-components-8308f42a8b80)
 - [https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108)
