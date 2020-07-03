@@ -1,19 +1,14 @@
 # Guidelines Next Front-end
 - [Guidelines Next Front-end](#guidelines-next-front-end)
 - [1. Next JS Packages](#1-next-js-packages)
-- [2. Project folder structure](#2-project-folder-structure)
-    - [2.1 Components](#21-components)
-    - [2.2 Pages](#22-pages)
-    - [2.3 Public](#23-public)
-    - [2.4 actions](#24-actions)
-- [3. Naming conventions](#3-naming-conventions)
-- [4. Creating a new functional Components for Pages and reusable component.](#4-creating-a-new-functional-components-for-pages-and-reusable-component)
+- [2. Naming conventions](#2-naming-conventions)
+- [3. Creating a new functional Components for Pages and reusable component.](#3-creating-a-new-functional-components-for-pages-and-reusable-component)
     - [Functional Component](#functional-component)
     - [So why should I use functional components at all?](#so-why-should-i-use-functional-components-at-all)
-- [5. Routes](#5-routes)
-- [6. Don't repeat yourself (DRY)](#6-dont-repeat-yourself-dry)
-- [7. General rules](#7-general-rules)
-- [8. Reference](#8-reference)
+- [4. Routes](#4-routes)
+- [5. Don't repeat yourself (DRY)](#5-dont-repeat-yourself-dry)
+- [6. General rules](#6-general-rules)
+- [7. Reference](#7-reference)
 
 # 1. Next JS Packages
 
@@ -89,6 +84,6 @@ Components and functions inside libraries should have one purpose and responsibi
 - DO NOT put logical codes inside pages. Create libraries and actions for specific task in your code.
 - Make sure that the next person that will read your code can understand it without you asking.
 
-# 8. Reference
+# 7. Reference
 - [https://medium.com/yals/dry-out-react-code-into-presentational-components-8308f42a8b80](https://medium.com/yals/dry-out-react-code-into-presentational-components-8308f42a8b80)
 - [https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108)
